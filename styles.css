@@ -3,8 +3,8 @@ body {
     color: rgb(0, 0, 0);
     margin: 0px;
     padding: 0px;
-    background-color: #1f9be2;
     background-image: url(./assets/icon/background.jpg);
+    background-color: #1f9be2;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
